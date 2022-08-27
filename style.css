@@ -1,0 +1,32 @@
+.heading 
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status, #number_of_objects, #start_model 
+{
+    font-size: 18px;
+    color: aquamarine;
+    background-color: darkviolet;
+}
+
+body 
+{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas 
+{
+    box-shadow: 10px 10px 10px rgb(111, 0, 255);
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+h1 
+{
+    color: crimson;
+    background-color: darkturquoise;
+}
